@@ -1,0 +1,10 @@
+# Ignore client and backend specific files
+/client/node_modules/
+/client/build/
+/client/dist/
+/client/.env
+
+/backend/node_modules/
+/backend/build/
+/backend/dist/
+/backend/.env

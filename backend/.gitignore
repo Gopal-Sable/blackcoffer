@@ -1,0 +1,42 @@
+# Node.js
+node_modules/
+
+# Build files
+build/
+dist/
+*.log
+
+# Environment variables
+.env
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# IDE (e.g., Visual Studio Code) configuration
+.vscode/
+.idea/
+
+# Compiled files
+*.class
+*.war
+*.jar
+*.aar
+*.apk
+*.dex
+
+# Generated files
+*.min.js
+*.min.css
+*.bak
+*.lock
+
+# Logs and databases
+*.log
+*.sqlite
+*.sqlite3
+*.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
